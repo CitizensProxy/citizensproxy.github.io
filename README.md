@@ -1,8 +1,10 @@
 
 >si queremos tener alguna esperanza de conservar nuestra agencia y ejercer cierto control sobre las circunstancias de nuestro ser en los próximos años, necesitaremos saber mucho más sobre de dónde provienen estas tecnologías radicales, cómo logran su trabajo en el mundo, y por qué se nos aparecen de la manera en que lo hacen. Lo que sigue es un intento de arrojar luz sobre todas estas preguntas.
+>
 > --- Radical Technologies: The Design of Everyday Life Adam Greenfield
 
 >if we are to have any hope of retaining our agency and exerting some measure of control over the circumstances of our being in the years to come, we will need to know a lot more about where these radical technologies came from, how they accomplish their work in the world, and why they appear to us in the way that they do. What follows is an attempt to shed light on all of these questions.
+>
 > --- Radical Technologies: The Design of Everyday Life Adam Greenfield
 
 
