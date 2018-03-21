@@ -22,11 +22,24 @@ Este proyecto pensado para armar un colectivo de personas que traduzcan, generen
 
 ## ¿Quiénes somos?
 
-Este proyecto surge a partir de la necesidad que encontramos algunes educadores y tecnólogues a la hora de formar y divulgar a les ciudadanos sobre las problemáticas e implicancias que los 
+Este proyecto surge a partir de la necesidad que encontramos algunes educadores y tecnólogues a la hora de formar y divulgar a les ciudadanos sobre las problemáticas e implicancias que las tecnologías de información digital en red presentan a la ciudadanía.
+
+El proyecto está siendo mentoreado dentro del programa [Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#cohort-d) de la [Fundación Mozilla]
 
 ## ¿Qué necesitamos?
 
+El proyecto apunta a organizar un colectivo de colaboradores para que traduzcan, generen nuevo contenido y puedan ofrecer talleres a educadores a fin acortar la brecha existente entre las discusiones y acontencimientos en materia de políticas públicas en torno a la regualción de La Red y el impacto de los dispositivos y sus mecanismos de control ciudadano.
+
+
 ## ¿Cómo colaborar?
+
+* Participando en la traducción de contenidos generados por Mozilla y otras entidades que están problematizando la situación.
+* Participando en la generación de contenido nuevo y adaptado al público en general sobre estos temas que nos convocan.
+* Organizando el dictado de talleres para la comunidad
+* Dictando talleres para la comunidad.
+* Gestionando la habilitación para que los cursos y talleres otorguen puntaje docente.
+* Financiando el proyecto para poder sostenerlo en el tiempo.
+
 
 ## Más información
 
