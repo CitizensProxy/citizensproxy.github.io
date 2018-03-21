@@ -5,15 +5,14 @@
 
 ## ¡Bienvenides!
 
-
-Networked digital information technology looms ever larger in all of our lives. It shapes our perceptions, conditions the choices available to us, and remakes our experience of space upgrade that, with startling rapidity, makes nonsense of our most diligent attempts to reckon with it. It even inhibits our ability to think meaningfully about the future, tending to reframe any conversation about the reality we want to live in as a choice between varying shades of technical development.
-
 En este espacio van a encontrar toda la información actualizada sobre el proyecto.
 
 
 ## ¿Qué es este espacio y por qué lo impulsamos?
 
->"Las tecnologías de información digital en red se entretejen de forma cada vez más amplia en nuestras vidas. Modelan nuestras percepciones, condicionan las elecciones que tenemos disponibles y redefinen nuestras experiencias espaciales, que con alarmante velociadad, hacen de nuestros intentos más diligentes para reconcerlos algo casi sin sentido. Incluso inhiben nustra habilidad para pensar significativamente sobre el futuro, tendiendo a encauzar cualquier conversación sobre la realidad en la que queremos vivir como una opción  entre distintos matices de desarrollo tecnológico.[^1]"
+>"Las tecnologías de información digital en red se entretejen de forma cada vez más amplia en nuestras vidas. Modelan nuestras percepciones, condicionan las elecciones que tenemos disponibles y redefinen nuestras experiencias espaciales, que con alarmante velociadad, hacen de nuestros intentos más diligentes para reconcerlos algo casi sin sentido. Incluso inhiben nustra habilidad para pensar significativamente sobre el futuro, tendiendo a encauzar cualquier conversación sobre la realidad en la que queremos vivir como una opción  entre distintos matices de desarrollo tecnológico."
+
+[^1]
 
 Este es un proyecto para crear un espacio digital y una experiencia física que conecte a les ciudadanes, docentes en particular, con la importancia de aprender y enseñar sobre las tecnologías de información digital, la  Neutralidad de la Red, la privacidad y la necesidad de una Red Abierta para la defensa de nuestros derechos y en pos de una construcción colectiva de una Internet Sana.
 
