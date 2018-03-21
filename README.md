@@ -7,6 +7,14 @@
 
 En este espacio van a encontrar toda la información actualizada sobre el proyecto.
 
+* [¿Qué es este espacio y por qué lo impulsamos?](#qué-es-este-espacio-y-por-qué-lo-impulsamos)
+* [¿Quiénes somos?](#quiénes-somos)
+* [¿Qué necesitamos?](#qué-necesitamos)
+* [Más Información](#más-información)
+* [Glosario](#glosario)
+* [Notas](#notas)
+
+
 
 ## ¿Qué es este espacio y por qué lo impulsamos?
 
