@@ -16,6 +16,7 @@ En este espacio van a encontrar toda la información actualizada sobre el proyec
 
 
 
+
 ## ¿Qué es este espacio y por qué lo impulsamos?
 
 >"Las tecnologías de información digital en red se entretejen de forma cada vez más amplia en nuestras vidas. Modelan nuestras percepciones, condicionan las elecciones que tenemos disponibles y redefinen nuestras experiencias espaciales, que con alarmante velociadad, hacen de nuestros intentos más diligentes para reconcerlos algo casi sin sentido. Incluso inhiben nustra habilidad para pensar significativamente sobre el futuro, tendiendo a encauzar cualquier conversación sobre la realidad en la que queremos vivir como una opción  entre distintos matices de desarrollo tecnológico."
